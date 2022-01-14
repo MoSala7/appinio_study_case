@@ -49,7 +49,6 @@ class AboutModule extends StatelessWidget {
                       textLink(cubit.profileModel.email, false),
                       const SizedBox(height: 10),
                       textLink(cubit.profileModel.site, false),
-                      // textLink(timerModel.dataseries.toString(), false)
                     ],
                   ),
                 )
